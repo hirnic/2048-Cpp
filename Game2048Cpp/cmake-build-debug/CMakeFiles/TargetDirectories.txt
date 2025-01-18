@@ -1,0 +1,3 @@
+C:/Users/cch30/CLionProjects/Game2048Cpp/cmake-build-debug/CMakeFiles/Game2048Cpp.dir
+C:/Users/cch30/CLionProjects/Game2048Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cch30/CLionProjects/Game2048Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
